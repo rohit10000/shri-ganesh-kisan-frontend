@@ -1,0 +1,14 @@
+{
+"product1": {
+    "name": "White DPT",
+    "img": "https://raw.githubusercontent.com/rohit10000/shri-ganesh-kisan-vitaran-website/master/src/images/product1.jpg",
+    "price": 84.95,
+    "key": "product1"
+    },
+"product2": {
+    "name": "Kabulichana",
+    "img": "https://raw.githubusercontent.com/rohit10000/shri-ganesh-kisan-vitaran-website/master/src/images/product3.jpg",
+    "price": 65.0,
+    "key": "product2"
+    }
+}
