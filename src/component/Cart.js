@@ -63,7 +63,7 @@ function Cart() {
                     className="quantity"
                     maxLength="3"
                     type="text"
-                    id="quantity"
+                    id={product.id}
                     value={quantity}
                   />
                   <button

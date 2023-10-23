@@ -71,6 +71,9 @@ function cartReducer(cart, action) {
                 }
             }).filter(item => item.quantity > 0);
         }
+        case 'resetCart': {
+            return [];
+        }
         default: {
             throw Error("Unknown action: " + action.type);
         }
